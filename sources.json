@@ -1,0 +1,51 @@
+[
+  {
+    "language": "Lepcha",
+    "title": "Dictionary of the Lepcha-language (1898)",
+    "type": "Public-domain scanned dictionary",
+    "url": "https://commons.wikimedia.org/wiki/File:Dictionary_of_the_Lepcha-language_(IA_cu31924023194198).pdf",
+    "notes": "Public-domain scan; includes an English-Lepcha index. OCR may need checking."
+  },
+  {
+    "language": "Lepcha",
+    "title": "Bharatavani Lepcha dictionaries",
+    "type": "Government language-resource portal",
+    "url": "https://bharatavani.in/lepcha/dictionaries",
+    "notes": "Browse/search dictionaries and glossaries; check each item's download and reuse terms."
+  },
+  {
+    "language": "Lepcha",
+    "title": "Freelang Lepcha-English dictionary",
+    "type": "Online word list",
+    "url": "https://www.freelang.net/dictionary/lepcha.php",
+    "notes": "Site reports Lepcha-English and English-Lepcha word lists; copyright terms apply."
+  },
+  {
+    "language": "Rai (Danuwar/Dewas Rai)",
+    "title": "A vocabulary of the Danuwar Rai language, with Nepali and English (1975)",
+    "type": "Linguistic book / PDF listing",
+    "url": "https://nepal.sil.org/resources/archives/36876",
+    "notes": "Specific Rai variety; do not label it simply as all Rai languages."
+  },
+  {
+    "language": "Rai (Wambule)",
+    "title": "Vāmbule Rāī śabdakośa",
+    "type": "Nepali-Rai dictionary record",
+    "url": "https://tufs.repo.nii.ac.jp/records/12320",
+    "notes": "A specific Wambule Rai dictionary; retain dialect/source metadata."
+  },
+  {
+    "language": "Tamang",
+    "title": "Bharatavani Tamang dictionaries",
+    "type": "Government language-resource portal",
+    "url": "https://bharatavani.in/tamang/dictionaries",
+    "notes": "Lists Tamang dictionaries including Tamang-Nepali-English resources; check reuse terms."
+  },
+  {
+    "language": "Tamang",
+    "title": "Bharatavani Tamang language-learning books",
+    "type": "Government language-resource portal",
+    "url": "https://bharatavani.in/tamang/bhashakosha",
+    "notes": "Lists dictionaries and language-learning books."
+  }
+]
